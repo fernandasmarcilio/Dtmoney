@@ -9,10 +9,9 @@ Criação de um sistema web de controle de entrada e saida de dinheiro, guiado p
 Dentro da pasta Dtmoney, instale as depedências com o comando: ``` yarn install ```
 
 ## Executar o projeto
-Após instalar as depedências, rode o comando: ``` yarn start ```
+Após instalar as depedências, rode os comandos: ``` yarn server ``` e ``` yarn start ```
 
 ### O que aprendi:
-Nessa aplicação aprendi a:
 - Configurar e consumir um fake API com MirageJS;
 - Utilizar reduce de forma diferente
 - Formatar moedas e datas com Intl
